@@ -9,6 +9,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* ===== BASE STYLES ===== */
 
+html {
+  padding: 0.5em 0.375em 0.5em 0.375em;
+}
+
 body {
   font-size: 1.25em; /* 20px */
   line-height: 1.5em; /* 24px */
