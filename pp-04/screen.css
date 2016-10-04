@@ -20,8 +20,7 @@ body {
   line-height: 1.2em; /* 24px */
 }
 
-p,
-ul {
+p, ul {
   padding-bottom: 1.5em; /* 24px */
 }
 
@@ -29,4 +28,5 @@ h1 {
   font-size: 1.42385em; /* 28.477px */
   line-height: 1.685em; 
 }
+
 
