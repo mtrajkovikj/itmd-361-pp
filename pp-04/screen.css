@@ -11,6 +11,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 html {
   padding: 0.5em 0.375em 0.5em 0.375em;
+  background-color: #3a4851;
+  color: #d1ebff;
 }
 
 body {
@@ -27,3 +29,4 @@ h1 {
   font-size: 1.42385em; /* 28.477px */
   line-height: 1.685em; 
 }
+
